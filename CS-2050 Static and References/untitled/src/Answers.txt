@@ -97,3 +97,11 @@ A) 3
 B) The value is 3 because p1 has created 2 different person objects and p2 has created 1 person object
 C) We can manually change the value or we can create another person object
 D) 0, by default the integer static value is set to 0.
+
+
+Question 8: What do these 2 lines of code output?
+System.out.println(p1.getPersonCount());
+System.out.println(Person.getPersonCount());
+
+They both print out 3. This is the case because the Static value of the variable personCount is 3. Because the variable
+is static, the value is the same across all objects of this class. The variable is associated with the class itself.
