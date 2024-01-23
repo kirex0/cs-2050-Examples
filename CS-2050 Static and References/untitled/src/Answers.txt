@@ -1,0 +1,99 @@
+Before looking at answers try to answer them yourself!!
+
+This is for SELF EVALUATION and not worth any points
+
+If you have any questions about the material, concepts or anything else, please us! (the professor or LAs)
+We are here to help! :)
+
+My Email: kshockey@msudenver.edu
+My Discord: kirex0
+My Slack: Kade Shockey (same email as above)
+
+
+Answers below
+=========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question 1: what happened to the first person object?
+(Person p1 = new Person("John", "Doe", 30);)
+
+The first person object got replaced by the new person (p1 = new Person("Jane", "Doe", 25);). The reference got updated
+to refer to the new person object on the java heap memory. The old person object was unassigned and will be cleaned up
+by the Java garbage collector.
+
+
+Question 2: Is this bad?
+
+Yes. This is bad practice because the memory may not be cleaned up immediately by the java garbage collection. When
+working on larger projects the leftover data can take up space.
+
+
+Question 3: what does this do?
+(p2 = p1;)
+
+The reference p2 now points to the object referenced by p1. The original object created, no longer has a
+reference.
+
+
+Question 4: What does this do?
+(p2.setlName("BAD");)
+
+This line of code sets the person object's last name variable to "BAD". After the line (p2 = p1;) p2 references the
+object of Person("Jane", "Doe", 25); and sets the last name to "BAD".
+
+
+Question 5 A): what will this print? and 5 B): Why?
+System.out.println(p1.getlName());
+
+This will print "BAD". It prints bad because the line of code (p2.setlName("BAD");) p1 and p2 reference the same object
+so any changes done to p1 or p2 effect the same object.
+
+
+------------------------------------------------------
+Static Keyword
+------------------------------------------------------
+
+Question 6: How do we access the static variable personCount? Are there multiple ways to access it?
+
+Static - Static is a keyword in java used to create a variable or method that that can be used across all objects.
+Static members have a shared memory allocation, memory is only allocated ONCE and is shared across all instances of the
+class. If we have p1 and p2 pointing to separate objects the value of personCount is the same for both objects because
+of the keyword Static.
+
+We can access the static variable both by an object created and by the classname itself as well. Person.personCount
+works as well as the object p1.personCount
+
+
+Question 7:
+A) What is the value of personCount RIGHT NOW?
+B) Why?
+C) How do we change it?
+D) What is the value of personCount by default?
+
+A) 3
+B) The value is 3 because p1 has created 2 different person objects and p2 has created 1 person object
+C) We can manually change the value or we can create another person object
+D) 0, by default the integer static value is set to 0.
