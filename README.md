@@ -5,13 +5,19 @@ How to navigate the examples:
 
 1: Select the fold of material you would like to review
 
-2: select untitled folder
+2: select src folder
 
-3: select src folder
+The java files will contain code for main and classes used, if you want to run the examples yourself you are welcom to copy the code or repo for the code.
+Make sure to keep the class files inside src with main.
 
-The java files will contain code for main and classes used, if you want to run the examples yourself you are welcom to copy the code or repo for the code
-make sure to keep the class files inside src with main
-
-there will be an Answers.txt Please only look in that after self reviewing the content
+There will be an Answers.txt in each folder. Please only look in that after self reviewing the content and going through the main and class files.
 
 If you have any questions please reach out to me!
+
+Email: kshockey@msudenver.edu
+Discord: kirex0
+
+Office hours: Tuesday/Thursday 2pm-3:50pm via Microsoft Teams
+
+Meeting ID: 269 736 683 496
+Passcode: 95t9e5
