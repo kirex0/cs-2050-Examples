@@ -24,3 +24,5 @@ Office hours: Tuesday/Thursday 2pm-3:50pm via Microsoft Teams
 
 Meeting ID: 269 736 683 496
 Passcode: 95t9e5
+
+If you have any advice, or recognize any errors or issues please let me know! I will keep updating this repo throughout the semester and want to provide it to any students taking CS-2050. Please let me know what I can do to make this repo better! 
