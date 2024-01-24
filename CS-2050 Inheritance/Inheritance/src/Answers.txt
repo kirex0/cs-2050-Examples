@@ -1,0 +1,51 @@
+Before looking at answers try to answer them yourself!!
+
+This is for SELF EVALUATION and not worth any points
+
+If you have any questions about the material, concepts or anything else, please contact us! (the professor or LAs)
+We are here to help! :)
+
+My Email: kshockey@msudenver.edu
+My Discord: kirex0
+My Slack: Kade Shockey (same email as above)
+
+
+Answers below
+=========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question 1: What is inheritance?
+
+Inheritance is a mechanism in which a class can inherit the properties of another class. This includes methods and
+variables. This is useful for code reuse and for creating hierarchy of classes.
+
+
+
+
+
+
+
+
