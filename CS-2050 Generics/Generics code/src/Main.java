@@ -18,21 +18,22 @@ public class Main {
 
         //Question 3: Can we use another class for the data type for box?
         Box<Person> boxOfPerson = new Box<Person>(p1);
+        System.out.println(boxOfPerson.tThing.getfName());
 
-        //Question 4: Can you try to write code that will print the first name of the person in the box, boxOfPerson?
 
 
-        //------------------------------------------------------
-        //Comparing
-        //------------------------------------------------------
-
-        //Question 5: Can you run this? Try it! What happens and why?
+        //Question 4: Can you run this? Try it! What happens and why?
 
        /* if (boxOfPerson == b2) {
             System.out.println("boxOfPerson and b2 are the same");
         } else {
             System.out.println("boxOfPerson and b2 are not the same");
         }*/
+        Person p2 = new Person("Example", "Student", 22);
+
+        p1 = p2;
+        //Question 5: What is the first name of the person object being referenced to in boxOfPerson?
+        System.out.println(boxOfPerson.tThing.getfName());
 
 
     }

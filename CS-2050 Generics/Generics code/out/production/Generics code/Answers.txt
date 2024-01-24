@@ -48,10 +48,17 @@ Question 4: Can you try to write code that will print the first name of the pers
 System.out.println(boxOfPerson.tThing.getfName());
 
 
+Question 5: Can you run this? Try it! What happens and why?
+
+No, this code will not run. It returned an error because we are trying to compare 2 different data types. Yes it is the
+same class but the data types cannot be compared this way.
 
 
+Question 6: What is the first name of the person object being referenced to in boxOfPerson?
 
-
+The first name of the person object being referenced to in boxOfPerson is John. It does not get updated with p1 = p2
+because the reference of p1 was changed, not the values. So the value of the reference in boxOfPerson is still "John"
+"Doe" 30. p1 now references the person object that p2 references.
 
 
 
