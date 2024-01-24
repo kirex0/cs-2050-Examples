@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         //Play around with this code too! Make boxes, print out data, compare boxes and see what happens!
-        
+
         //creating person object referenced by p1
         Person p1 = new Person("John", "Doe", 30);
 
