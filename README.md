@@ -15,6 +15,7 @@ There will be an Answers.txt in each folder. Please only look in that after self
 If you have any questions please reach out to me!
 
 Email: kshockey@msudenver.edu
+
 Discord: kirex0
 
 Office hours: Tuesday/Thursday 2pm-3:50pm via Microsoft Teams
