@@ -1,0 +1,63 @@
+Before looking at answers try to answer them yourself!!
+
+This is for SELF EVALUATION and not worth any points
+
+If you have any questions about the material, concepts or anything else, please contact us! (the professor or LAs)
+We are here to help! :)
+
+My Email: kshockey@msudenver.edu
+My Discord: kirex0
+My Slack: Kade Shockey (same email as above)
+
+
+Answers below
+=========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question 1: What data type is b1?
+
+b1 is declared as a String. It is a string because when we declare Box<String>, the <> defines what data type the
+Generic will be.
+
+
+Question 2: What data type is b2?
+
+b2 is declared as a Double.
+
+
+Quesion 3: Can we use another class for the data type for box?
+
+Yes, we can use any class for the data type for box. We can also use primitive data types such as int, double, char,
+etc.
+
+Question 4: Can you try to write code that will print the first name of the person in the box, boxOfPerson?
+
+System.out.println(boxOfPerson.tThing.getfName());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
