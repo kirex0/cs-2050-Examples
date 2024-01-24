@@ -10,6 +10,8 @@ How to navigate the examples:
 The java files will contain code for main and classes used, if you want to run the examples yourself you are welcom to copy the code or repo for the code.
 Make sure to keep the class files inside src with main.
 
+Play around with the code examples! Make your own and feel free to do whatever you want with it!
+
 There will be an Answers.txt in each folder. Please only look in that after self reviewing the content and going through the main and class files.
 
 If you have any questions please reach out to me!
