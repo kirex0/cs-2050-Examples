@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-
+        //Play around with this code too! Make boxes, print out data, compare boxes and see what happens!
+        
         //creating person object referenced by p1
         Person p1 = new Person("John", "Doe", 30);
 
@@ -34,6 +35,7 @@ public class Main {
         p1 = p2;
         //Question 5: What is the first name of the person object being referenced to in boxOfPerson?
         System.out.println(boxOfPerson.tThing.getfName());
+
 
 
     }
