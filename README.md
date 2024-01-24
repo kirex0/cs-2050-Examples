@@ -8,7 +8,7 @@ How to navigate the examples:
 2: select src folder
 
 The java files will contain code for main and classes used, if you want to run the examples yourself you are welcom to copy the code or repo for the code.
-Make sure to keep the class files inside src with main.
+Make sure to keep the class files inside src with main. Questions will be in main! The question may tell you to go to a different file, but if you are following the questions they will exist in main.
 
 Play around with the code examples! Make your own and feel free to do whatever you want with it!
 
