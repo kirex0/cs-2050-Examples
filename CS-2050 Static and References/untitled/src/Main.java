@@ -40,11 +40,11 @@ public class Main {
         //------------------------------------------------------
         //Static Keyword
         //------------------------------------------------------
+        //Question 6: Whaat is static?
+        //Question 7: How do we access the static variable personCount? Are there multiple ways to access it?
+        //Question 8: A) What is the value of personCount RIGHT NOW? B) Why?  C) How do we change it? D) What is the value of personCount by default?
 
-        //Question 6: How do we access the static variable personCount? Are there multiple ways to access it?
-        //Question 7: A) What is the value of personCount RIGHT NOW? B) Why?  C) How do we change it? D) What is the value of personCount by default?
-
-        //Question 8: What do these 2 lines of code output?
+        //Question 9: What do these 2 lines of code output?
         //System.out.println(p1.getPersonCount());
         //System.out.println(Person.getPersonCount());
 
