@@ -76,18 +76,21 @@ so any changes done to p1 or p2 effect the same object.
 Static Keyword
 ------------------------------------------------------
 
-Question 6: How do we access the static variable personCount? Are there multiple ways to access it?
+Question 6: What is static?
 
 Static - Static is a keyword in java used to create a variable or method that that can be used across all objects.
 Static members have a shared memory allocation, memory is only allocated ONCE and is shared across all instances of the
 class. If we have p1 and p2 pointing to separate objects the value of personCount is the same for both objects because
 of the keyword Static.
 
+
+Question 7: How do we access the static variable personCount? Are there multiple ways to access it?
+
 We can access the static variable both by an object created and by the classname itself as well. Person.personCount
 works as well as the object p1.personCount
 
 
-Question 7:
+Question 8:
 A) What is the value of personCount RIGHT NOW?
 B) Why?
 C) How do we change it?
@@ -99,7 +102,7 @@ C) We can manually change the value or we can create another person object
 D) 0, by default the integer static value is set to 0.
 
 
-Question 8: What do these 2 lines of code output?
+Question 9: What do these 2 lines of code output?
 System.out.println(p1.getPersonCount());
 System.out.println(Person.getPersonCount());
 
