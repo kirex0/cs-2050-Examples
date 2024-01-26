@@ -33,7 +33,7 @@ public class Main {
         Person p2 = new Person("Example", "Student", 22);
 
         p1 = p2;
-        //Question 5: What is the first name of the person object being referenced to in boxOfPerson?
+        //Question 5: What is the first name of the person object being referenced to in boxOfPerson and why?
         System.out.println(boxOfPerson.tThing.getfName());
 
 
