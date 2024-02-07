@@ -20,6 +20,7 @@ public class Main {
         //Question 3: Can we use another class for the data type for box?
         Box<Person> boxOfPerson = new Box<Person>(p1);
         System.out.println(boxOfPerson.tThing.getfName());
+        Box ar[] = {b1, b2, boxOfPerson};
 
 
 

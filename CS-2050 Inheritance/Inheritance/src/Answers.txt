@@ -9,6 +9,13 @@ My Email: kshockey@msudenver.edu
 My Discord: kirex0
 My Slack: Kade Shockey (same email as above)
 
+Office Hours:
+Tuesday/Thursday: 2pm-3:50pm
+
+Teams Meeting:
+Meeting ID: 269 736 683 496
+Passcode: 95t9e5
+
 
 Answers below
 =========================================
@@ -39,13 +46,47 @@ Answers below
 
 Question 1: What is inheritance?
 
+
 Inheritance is a mechanism in which a class can inherit the properties of another class. This includes methods and
-variables. This is useful for code reuse and for creating hierarchy of classes.
+variables.
+
+
+
+Question 2: What is polymorphism?
+
+Polymorphism is the ability for a method to have different implementations through class hierarchy. This is useful for
+creating a method that can be used by multiple classes. Method overloading and method overriding are examples of
+polymorphism.
+
+
+
+Question 3: What is an abstract class?
+
+
+An abstract class is either a class with an abstract method or it is a class that is declared to be abstract. An
+abstract class has an undefined method. A new abstract class cannot be called because it is not defined. A class has to
+be created that extends the abstract class and define the abstract method in the new class.
+
+
+
+Question 4:  Does the below code work? Why?
+
+Bird b = new Bird();
+Birb b.makeSound();
+
+
+No, the below code will not work because you cannot create an instance of an abstract class. The Bird class is abstract
+and has undefined methods. The code doesn't know how to compile the abstract undefined methods.
 
 
 
 
+Question 5 Why does e.makeSound() and p.makeSound() have different outputs when this code runs?
 
+
+The Eagle class and the Penguin class have unique definitions for the makeSound() method. When you call e.makeSound()
+the Eagle class will output the definition of makeSound() in the Eagle class. When you call p.makeSound() the Penguin
+class will output the definition of makeSound() in the Penguin class. This is an example of polymorphism.
 
 
 
