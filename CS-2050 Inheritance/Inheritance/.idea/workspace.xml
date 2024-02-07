@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2dc8b8e-6d2b-4da7-9998-f9ceccaba7f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS-2050 Scanner/Scanner/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS-2050 Scanner/Scanner/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS-2050 Scanner/Scanner/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS-2050 Scanner/Scanner/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS-2050 Scanner/Scanner/Scanner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CS-2050 Scanner/Scanner/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CS-2050 Generics/Generics code/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CS-2050 Generics/Generics code/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Answers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Answers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b2dc8b8e-6d2b-4da7-9998-f9ceccaba7f6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +53,7 @@
       <workItem from="1706640597221" duration="12000" />
       <workItem from="1706729925244" duration="969000" />
       <workItem from="1707161122347" duration="3317000" />
-      <workItem from="1707333670294" duration="4312000" />
+      <workItem from="1707333670294" duration="4584000" />
     </task>
     <servers />
   </component>
